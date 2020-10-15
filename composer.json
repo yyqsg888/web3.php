@@ -1,14 +1,9 @@
 {
-    "name": "sc0vu/web3.php",
+    "name": "iexbase/web3.php",
     "description": "Ethereum web3 interface.",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "sc0Vu",
-            "email": "alk03073135@gmail.com"
-        }
-    ],
+    
     "require": {
         "php": "^7.3",
          "ext-mbstring": "*",
